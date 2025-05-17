@@ -1,0 +1,7 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[89.52826070000003,26.617036600000063,0]},"properties":{"Name":"Buxa Tiger Reserve - National park","photo":"D:\\disertation(tourist_spot)\\work in alipurduar (last)\\ALIPURDUAR\\IMAGE\\adventure\\Buxa Tiger Reserve - National park.jpeg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[89.61384840000005,26.70211900000004,0]},"properties":{"Name":"Jayanti Riverbed","photo":"D:\\disertation(tourist_spot)\\work in alipurduar (last)\\ALIPURDUAR\\IMAGE\\adventure\\Jayanti Riverbed.jpeg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[89.56922680000008,26.552535900000066,0]},"properties":{"Name":"Sikiajhora Eco-Tourism","photo":"D:\\disertation(tourist_spot)\\work in alipurduar (last)\\ALIPURDUAR\\IMAGE\\adventure\\Sikiajhora Eco-Tourism.jpeg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[89.36657050000008,26.627801000000034,0]},"properties":{"Name":"Chilapata Forest - National forest","photo":"D:\\disertation(tourist_spot)\\work in alipurduar (last)\\ALIPURDUAR\\IMAGE\\adventure\\Chilapata Forest - National forest.jpeg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[89.28053510000007,26.69051360000003,0]},"properties":{"Name":"Jaldapara National Park - National park","photo":"D:\\disertation(tourist_spot)\\work in alipurduar (last)\\ALIPURDUAR\\IMAGE\\adventure\\Jaldapara National Park - National park.jpeg"}}
+]}
